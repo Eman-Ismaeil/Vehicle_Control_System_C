@@ -3,7 +3,7 @@ This code uses recursive functions, pointers, structures, enums and preprocessor
 
 Sequence Scenario:
 
-1) Ask the user if he/she wants to
+1) Ask the user if he/she wants to:
 a. Turn on the vehicle engine
 b. Turn off the vehicle engine
 c. Quit the system
